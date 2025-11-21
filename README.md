@@ -9,7 +9,7 @@
 
 ---
 
-## 📚 INTRODUCTION  
+##  INTRODUCTION  
 
 Welcome to my **PRP372S Work Readiness Portfolio of Evidence**.  
 This digital portfolio showcases my progression throughout the Work Readiness Program at CPUT.
@@ -20,7 +20,7 @@ The content within this portfolio represents my academic achievements as well as
 
 ---
 
-## 🧩 E-PORTFOLIO FRAMEWORK  
+##  E-PORTFOLIO FRAMEWORK  
 
 | Step | Description |
 |------|--------------|
@@ -31,13 +31,13 @@ The content within this portfolio represents my academic achievements as well as
 
 ---
 
-# 🌟 DIGITAL PORTFOLIO CONTENTS  
+#  DIGITAL PORTFOLIO CONTENTS  
 
-## 💬 1. BUSINESS COMMUNICATION 
+##  1. BUSINESS COMMUNICATION 
 
 <img width="1359" height="637" alt="image" src="https://github.com/user-attachments/assets/573889e0-87f3-45e3-99a4-57380d70cdfa" />
 
-### 🧠 Reflection – STAR Technique 
+###  Reflection – STAR Technique 
 **Situation:**  
 During the Work Readiness module, I engaged in the Business Communication course to strengthen my professional communication abilities.
 
@@ -56,7 +56,7 @@ I am now able to produce well-structured professional messages, deliver clear pr
 
 <img width="1365" height="647" alt="image" src="https://github.com/user-attachments/assets/01bce072-6024-4cdf-9684-ff1ab4eac3e0" />
 
-### 🧠 Reflection – STAR Technique 
+###  Reflection – STAR Technique 
 **Situation:**  
 As I prepared to apply for internships, I realized I needed to strengthen my professional presentation and interview performance.
 
@@ -75,7 +75,7 @@ I now approach interviews with greater confidence, communicate my thoughts clear
 
 <img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/0002d296-cf88-4115-b202-c7f9d7963acb" />
 
-### 🧠 Reflection – STAR Technique 
+###  Reflection – STAR Technique 
 **Situation:**  
 I took part in a Mock Interview exercise designed to replicate the experience of a real-world job interview.
 
@@ -89,14 +89,14 @@ I dressed professionally, rehearsed my introduction, and responded to each quest
 This activity strengthened my professionalism and helped me remain composed in high-pressure situations. I now have a clearer understanding of how thorough preparation, confidence, and concise communication contribute to a successful interview
 ---
 
-## 🤝 4. PROFESSIONAL NETWORKING  
+##  4. PROFESSIONAL NETWORKING  
 
 <img width="1365" height="645" alt="image" src="https://github.com/user-attachments/assets/63aa1fbb-6434-4093-9c35-18b8a883fa25" />
 
 <img width="1360" height="641" alt="image" src="https://github.com/user-attachments/assets/eddfb4f4-180c-4bfa-9ed3-f6d2cd9e0061" />
 
 
-### 🧠 Reflection – STAR Technique 
+###  Reflection – STAR Technique 
 **Situation:**  
 The Professional Networking module provided me with valuable insight into building and sustaining meaningful career-focused connections.
 
@@ -110,11 +110,11 @@ I set up a LinkedIn profile, expanded my network by connecting with industry pro
 I developed a network of IT professionals, colleagues, and mentors, which has boosted my confidence in professional settings and opened up new career opportunities.
 ---
 
-## 🧭 5. WORKPLACE ETIQUETTE  
+##  5. WORKPLACE ETIQUETTE  
 
 <img width="1365" height="649" alt="image" src="https://github.com/user-attachments/assets/81aa4c88-bd20-4077-81b6-01bf7878796b" />
 
-### 🧠 Reflection – STAR Technique 
+###  Reflection – STAR Technique 
 **Situation:**  
 As part of preparing for a professional career, I studied Workplace Etiquette to gain a clear understanding of expected conduct in formal work environments.
 
@@ -128,7 +128,7 @@ I completed quizzes and readings on corporate behavior, dress code, meeting etiq
 I am now confident in my ability to behave professionally, communicate respectfully with colleagues, and maintain integrity and discipline in any workplace setting.
 ---
 
-# 🧾 CONCLUSION 
+#  CONCLUSION 
 
 This portfolio highlights my complete journey of my **Work Readiness development**. By collecting evidence and reflecting systematically, I was able to show tangible growth in areas such as communication, professionalism, networking, and interview preparedness.
 
