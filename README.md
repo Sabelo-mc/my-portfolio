@@ -89,6 +89,7 @@ I dressed professionally, rehearsed my introduction, and responded to each quest
 This activity strengthened my professionalism and helped me remain composed in high-pressure situations. I now have a clearer understanding of how thorough preparation, confidence, and concise communication contribute to a successful interview
 ---
 
+
 ##  4. PROFESSIONAL NETWORKING  
 
 <img width="1365" height="645" alt="image" src="https://github.com/user-attachments/assets/63aa1fbb-6434-4093-9c35-18b8a883fa25" />
@@ -109,6 +110,7 @@ I set up a LinkedIn profile, expanded my network by connecting with industry pro
 **Result:**
 I developed a network of IT professionals, colleagues, and mentors, which has boosted my confidence in professional settings and opened up new career opportunities.
 ---
+
 
 ##  5. WORKPLACE ETIQUETTE  
 
