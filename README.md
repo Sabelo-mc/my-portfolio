@@ -4,7 +4,7 @@
   <img <img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/0d3a2c82-443d-4811-b3ce-073384c3fd25" />
 
   <br><br>
-  <strong>“Building Professional Readiness through Reflection, Evidence, and Growth.”</strong>
+  <strong>“Developing Professional Readiness through Reflection, Evidence, and Continuous Growth.”</strong>
 </div>
 
 ---
