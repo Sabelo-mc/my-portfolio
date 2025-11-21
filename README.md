@@ -70,6 +70,7 @@ I completed the Interview Skills module, practiced responding to typical intervi
 I now approach interviews with greater confidence, communicate my thoughts clearly, and provide strong, relevant examples that showcase my IT expertise and teamwork abilities.
 ---
 
+
 ## 🎥 3. MOCK INTERVIEW  
 
 <img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/0002d296-cf88-4115-b202-c7f9d7963acb" />
@@ -85,7 +86,7 @@ My goal was to put the interview techniques I had learned into practice and gain
 I dressed professionally, rehearsed my introduction, and responded to each question using the STAR method. After the interview, I evaluated my performance by considering the feedback provided by both peers and the lecturer.
 
 **Result:**  
-This activity strengthened my professionalism and helped me remain composed in high-pressure situations. I now have a clearer understanding of how thorough preparation, confidence, and concise communication contribute to a successful interview.
+This activity strengthened my professionalism and helped me remain composed in high-pressure situations. I now have a clearer understanding of how thorough preparation, confidence, and concise communication contribute to a successful interview
 ---
 
 ## 🤝 4. PROFESSIONAL NETWORKING  
